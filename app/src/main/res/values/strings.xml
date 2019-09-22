@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Caramelo</string>
+
+    <string name="login000">Login</string>
+    <string name="login001">Email</string>
+    <string name="login002">Password</string>
+    <string name="login003">Register</string>
+
+    <string name="register001">SELECT PHOTO</string>
+    <string name="register002">Username</string>
+    <string name="register003">Register</string>
+    <string name="register004">Already have an account?</string>
+
+
 </resources>
