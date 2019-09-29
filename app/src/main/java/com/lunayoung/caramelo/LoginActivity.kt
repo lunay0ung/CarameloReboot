@@ -19,6 +19,8 @@ class LoginActivity : AppCompatActivity() {
 
         Logger.d("테스트테스트테스트테스트")
 
+        register_textview_login.setOnClickListener { finish() }
+
     }
 
     private fun performLogin(){
