@@ -4,6 +4,7 @@ import android.app.Application
 import com.orhanobut.logger.AndroidLogAdapter
 import com.orhanobut.logger.Logger
 import com.orhanobut.logger.PrettyFormatStrategy
+import timber.log.Timber
 
 
 class MainApplication : Application(){
@@ -36,5 +37,10 @@ class MainApplication : Application(){
                 return BuildConfig.DEBUG
             }
         })
+
+        if (BuildConfig.DEBUG) {
+            Timber.plant(Timber.DebugTree())
+        }
+
     }
 }
