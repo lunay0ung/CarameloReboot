@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Caramelo</string>
+    <string name="login000">iniciar sesión</string>
+    <string name="login001">correo electrónico</string>
+    <string name="login002">contraseña</string>
+    <string name="login003">Registro</string>
+
+    <string name="register001">seleccione Foto</string>
+    <string name="register002">Nombre de usuario</string>
+    <string name="register003">Ya tienes una cuenta?</string>
+    <string name="register004">Por favor complete todos los artículos</string>
+    <string name="register005">Registro fallido</string>
+    <string name="register006">Registro exitoso</string>
+
+</resources>

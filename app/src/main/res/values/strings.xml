@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Caramelo</string>
+    <string name="app_name" translatable="false">Caramelo</string>
 
     <string name="login000">Login</string>
     <string name="login001">Email</string>
@@ -8,8 +8,10 @@
 
     <string name="register001">SELECT PHOTO</string>
     <string name="register002">Username</string>
-    <string name="register003">Register</string>
-    <string name="register004">Already have an account?</string>
+    <string name="register003">Already have an account?</string>
+    <string name="register004">Please fill out all items</string>
+    <string name="register005">Registration failed</string>
+    <string name="register006">Resistration succeeded</string>
 
 
 </resources>

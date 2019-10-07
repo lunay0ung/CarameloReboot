@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Caramelo</string>
+    <string name="login000">로그인</string>
+    <string name="login001">이메일</string>
+    <string name="login002">비밀번호</string>
+    <string name="login003">회원가입</string>
+
+    <string name="register001">사진 선택</string>
+    <string name="register002">유저네임</string>
+    <string name="register003">이미 가입하셨나요?</string>
+    <string name="register004">모든 항목을 기입해주세요.</string>
+    <string name="register005">회원가입에 실패하였습니다.</string>
+    <string name="register006">회원가입이 완료되었습니다.</string>
+
+</resources>
